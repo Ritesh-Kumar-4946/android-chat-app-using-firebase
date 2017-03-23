@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/19c7d0bc7912d9d9723e5b5d70ad08d304bb2447/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_b51521b6eeeda899a632e0e75080ec9110a804e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/061bcfaab7d61e463a7b2d982c0a5993cf3c661e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_930006c9f37ddc43b8b57d666af00d37a13f6679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/41671758fd2cac1f18a8c92e150b9fc0dc3dafbe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_967c09ec2923294e1c9fb0766b754f8c1393805d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/54fd08d7716b885cb23311405035efc42195a326/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_8e5c30a28c5738dc2bcb38275a6baad62919ef88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/779fed08792014b9749b79097fdf8ab0ae63297b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_9988af72aa9e1d89ea398b7bc340edd997ff596d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/92f2e383ef906ff2a1451492064e1de835120fc3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_7394509f6b0bebefd82bfafdb58fda6db35a7d73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/d8f8bd39b32b72d909a350e0251e31734cb35227/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_161e6f90ff10de0e80782ef3ffb782ea63b4b9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/f797d5982dd0419cd2319cce97332152e081f3f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_3a3e804c756ceae1adcc9eda2ebf4b606c0541c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/2bba752968d14e37ca91f447ab5b72c3d98745ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_f99de4232411f7ae32829f9f9cb2e5c0afbd5d6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/16121b9a16e126fe1d63854cc438d175bdb8a96f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_de88ac529d2093658c7085f36cefe65ee6684d2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9306d590dc41dbfef9bf486a271e4c5c2639d30e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/4cfe5f617411750bbc6cc2ddd6b674135c544044/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_25adfb166934affc7f8b21f4f38588ab6dfc2b1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/971bf1bdd7d791c20768e47dacf6d46054ade846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_ead15473b7edba5b4eb6dcedc12ae25d2486c1b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/b549a1f7879a7f540261b0f5bde3a5b4fd2a3b2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_f577f45a6a10659aa80218a7384d74671bfc965a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/2d22f72c3d0d58bddf90e02b469f42f89b20f28f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_768d1313bcd55dce11e370e5d72fab79d575ae46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/db9cf0afdadd264846cbf1873dbc3d23e7dc32bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_b477b55b2dbdc9678a33a6ca736354b7f272f1ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/b99fc63dccd8c2f577857a57b67424d9f36edf4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_e33c3976601a8360a5c59d753aa0608346987280.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/803d60c820b8568df039054e3a9cd526baaa2a26/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_04e4b59e7c62b77bbbcdfd4179487547dd21e13c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/8e56476539752a67297466ac521f77ef40cfd7ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_83315506a25ad6ef3843352fc6b5691e46c04690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/c62c4fc4e08c8ca32b459e1af66bab6e242fc276/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_97b73c1bf30cceb518e3ff8dcd3b476cd1ce598a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/61034a665f0c371b7d1d90f0cc7abf8c5300eef0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_11df5ed439a40358c560c590f165768fc5548044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/ac55ea804766fc5e9cd8833de7f8cc77a9698d3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_02b3f5c760f528ebf2e14d297a83abc3addc6fa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_1a0219b4775db2a499cb7acf87ca5992e534d470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/c7dc4e72f4509aceb359a814223ba1a5b854c8a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_97e22f5f4ad2ca247233583b5357cb45562eead7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/8eac51759fe15526e26e2d2d9b8f0a6790751a4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_79ca36c96edd8b676742699984b0defd69bcef10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ritesh/.android/build-cache/48e7dce5f9118b443cdb66b12526af13a81d51e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/ritesh/AndroidStudioProjects/xxxxxx/android-chat-app-using-firebase/app/build/intermediates/pre-dexed/debug/classes_40280ea1db9305261fed1bfb822efd02ddaa54ed.jar" />
+    </item>
+
+</items>
